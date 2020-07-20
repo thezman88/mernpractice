@@ -1,1 +1,1 @@
-# mernpractice
+This project is to practice React and MERN stack
