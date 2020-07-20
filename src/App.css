@@ -1,0 +1,27 @@
+*{
+  margin: 0px;
+}
+
+header{
+  background-color: green;
+  height: 100px;
+}
+
+ul{
+  list-style-type: none;
+  text-align: center;
+  list-style: none;
+  padding-top: 2%;
+}
+
+li{
+  display: inline;
+  padding: 10px;
+}
+
+a{
+  text-decoration: none;
+}
+a:visited{
+  color: red;
+}

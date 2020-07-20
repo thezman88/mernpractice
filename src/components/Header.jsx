@@ -6,8 +6,6 @@ function Header(){
                 <li><a>Home</a></li>
                 <li><a href='/about'>About</a></li>
                 <li><a href='/projects'>projects</a></li>
-
-
             </ul>
     </header>
 }
